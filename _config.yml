@@ -24,15 +24,16 @@ youtube_username: yusbkam
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Heisan! Jeg er Yusman Kamaleri og har en doktorgrad i epidemiologi og helse statistikk fra Universitetet i Oslo. Jeg har gode erfaring i arbeid med stor data og visualisering. I tillegg trives jeg å programmere i <mark>R</mark> og har gode analytiske egenskaper.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
 
 # Experience Section
-# experience_title: Experience
+ experience_title: Arbeidserfaring
 
 # Education Section
 # educaton_title: Education
