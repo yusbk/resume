@@ -21,7 +21,7 @@ youtube_username: yusbkam
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: Hvem er jeg
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Heisan! Jeg er Yusman Kamaleri og har en doktorgrad i epidemiologi og helse statistikk fra Universitetet i Oslo. Jeg har gode erfaring i arbeid med stor data og visualisering. I tillegg trives jeg å programmere i <mark>R</mark> og har gode analytiske egenskaper.
@@ -30,16 +30,16 @@ about_content: | # this will include new lines to allow paragraphs
 # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
-# projects_title: Projects
+projects_title: Prosjekt
 
 # Experience Section
- experience_title: Arbeidserfaring
+experience_title: Arbeidserfaring
 
 # Education Section
-# educaton_title: Education
+education_title: Utdanning
 
 # More Section
-# more_title: A Little More About Me
+more_title: Litt mer info om meg
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
    - Rock climbing
