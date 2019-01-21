@@ -1,8 +1,8 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: Det medisinske fakultet, UiO
+  dates: okt. 2004 - jun. 2009
+  qualification: Doktorgrad (PhD) i epidemiologi
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Fagområde i epidemiologi og helsestatistikk
