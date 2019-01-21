@@ -1,12 +1,13 @@
 # Experience template
-- company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- company: Nasjonalt Servicemiljø for medisinske kvalitetsregistre, Region Sør-Øst
+  link: http://www.kvalitetsregistre.no
+  job_title: Spesialrådgiver
+  dates: okt. 2014 - nov. 2018
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Ansvarlig for statistikk og analyse av helseregisterdata. Utvikle visualisering for resultattjenester av kvalitetsregistre.
+ Arbeidsoppgaver knyttet til nasjonale medisinske kvalitetsregistre
 
 
 - company: Company name 2
