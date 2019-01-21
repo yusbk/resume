@@ -1,13 +1,12 @@
 # Experience template
-- company: Nasjonalt Servicemiljø for medisinske kvalitetsregistre, Region Sør-Øst
-  link: http://www.kvalitetsregistre.no
+- company: Nasjonalt Servicemiljø for medisinske kvalitetsregistre
+  link: kvalitetsregistre.no
   job_title: Spesialrådgiver
   dates: okt. 2014 - nov. 2018
   quote: >
-   Short description of the company (optional)
+   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Ansvarlig for statistikk og analyse av helseregisterdata. Utvikle visualisering for resultattjenester av kvalitetsregistre.
- Arbeidsoppgaver knyttet til nasjonale medisinske kvalitetsregistre
 
 
 - company: Company name 2
