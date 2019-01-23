@@ -1,61 +1,28 @@
-# Site
-repository: sproogen/resume-theme
-# favicon: images/favicon.ico
+#Update all the sections by editing the data.yml file inside _data folder.
 
-# Personal info
-name: Yusman Kamaleri
-title: Epidemiolog og statistiker
-email: ybkamaleri@gmail.com
-website: www.github.com/yusbk/resume
+# Site Settings
+title: Min CV
+url: 'http://yusbk.github.io/resume'
+baseurl: '/resume' #change it according to your repository name
+# Style will be applied only after restarting the build or serve. Just choose one of the options.
+theme_skin: ceramic # blue turquoise green berry orange ceramic
 
-# Social links
-# twitter_username:
-github_username:  ybkamaleri
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: chillwildlife
-# linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: yusbkam
-# googleplus_username: +jekyll
+# Tracker
+analytics: UA-133159329-1
 
-# About Section
-about_title: Hvem er jeg
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Heisan! Jeg er Yusman Kamaleri og har en doktorgrad i epidemiologi og helse statistikk fra Universitetet i Oslo. Jeg har gode erfaring i arbeid med stor data og visualisering. I tillegg trives jeg å programmere i <mark>R</mark> og har gode analytiske egenskaper.
-
-
-# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
-# Projects Section
-projects_title: Prosjekt
-
-# Experience Section
-experience_title: Arbeidserfaring
-
-# Education Section
-education_title: Utdanning
-
-# More Section
-more_title: Litt mer info om meg
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-# Footer
-footer_show_references: true
-
-# Build settings
-# remote_theme: sproogen/resume-theme
-
+# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-plugins:
- - jekyll-seo-tag
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
+
+# Development Settings
+port: 4000
+host: 0.0.0.0
+safe: false

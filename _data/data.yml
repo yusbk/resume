@@ -1,0 +1,177 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Yusman Kamaleri
+    tagline: Epidemiolog/helsestatistiker
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: ybkamaleri@gmail.com
+    phone:
+    website: yusbk.github.io #do not add http://
+    linkedin:
+    github: ybkamaleri
+    gitlab:
+    bitbucket:
+    twitter:   # '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+
+    languages:
+      - idiom: Malay
+        level: Morsmål
+
+      - idiom: Norsk
+        level: Godt
+
+      - idiom: Engelsk
+        level: Godt
+
+      - idiom: Indonesisk
+        level: Godt
+
+      - idiom: Arabisk
+        level: Basis
+        
+    interests:
+      - item: Badminton
+        link: http://badmintonportalen.no/NBF/Ranglister/#1,2002018,,0,,,,,,,,2001,24585,,,0,,,,,,
+
+      - item: Langrenn
+        link: https://xcranking.no/person/7902/view
+
+      - item: Løping
+        link: http://www.racetimer.se/en/runner/show/4864075?layout=blodomloppet&race_id=2901
+
+
+career-profile:
+    title: Om meg
+    summary: |
+     Jeg har gode erfaring i arbeid med store data og visualisering. I tillegg trives jeg å
+     programmere i <strong>R</strong> og har gode analytiske egenskaper. Noen av mine arbeider finnes på min
+     [Github](https://www.github.com/ybkamaleri) side. Jeg benytter Shiny for interaktive og
+     dynamiske webapplikasjoner og LaTeX eller Markdown til automatisert rapportering.
+     Kjennskap til HTML, CSS og JavaScript er nødvendig for et bedre resultat.
+
+     Høy motivasjon og arbeidskapasitet er noe jeg har og disse er avgjørende for å klare å
+     gjennomføre de ymse oppgavene jeg har.
+
+education:
+    - degree: PhD i Epidemiologi og helsestatistikk
+      university: Universitetet i Oslo
+      time: 2004 - 2009
+      details: |
+
+    - degree: Mastergrad i internasjonal samfunnshelse
+      university: Universitetet i Oslo
+      time: 2001 - 2003
+      details: |
+
+    - degree: BSc. (Hons) in Psychology
+      university: International Islamic University Malaysia
+      time: 1993 - 1997
+
+experiences:
+    - role: Statistiker
+      time: 2018 - Present
+      company: Avdeling for barnemedisin, Oslo universitetssykehus
+      details: |
+        - Ansvarlig for håndterings og bearbeiding av data i Nasjonalt medisinsk
+          kvalitetsregister for barne- og ungdomsdiabetes (BDR)
+        - Gjennomføre statistisk analyse av BDR data
+        - Støtter forsker og stipendiater som benytter BDR data i analyse arbeid
+
+    - role: Spesialrådgiver
+      time: 2014 - 2018
+      company: IKT avdeling, Oslo universitetssykehus
+      details: |
+        - Arbeidsområder knyttet til Nasjonalt Servicemiljø for medisinske kvalitetsregistre, Region Sør-Øst
+        - Ansvarlig for statistikk og analyse av helseregisterdata
+        - Utvikle visualisering for resultattjenester av kvalitetsregistre
+        - Arbeidsoppgaver knyttet til nasjonale medisinske kvalitetsregistre
+
+    - role: Seniorforsker
+      time: 2011 - 2014
+      company: Avdeling for barnemedisin, Oslo universitetssykehus
+      details: |
+        - Arbeidsområder knyttet til Nasjonale kompetansetjenester for sjeldne diagnose og funksjonshemninger
+        - Ansvarlig for tilrettelegging av datainnsamling for forskningsprojekter
+        - Bidrar og veileder for statistikk og dataanalyse
+        - Forskningsgruppeleder i avdelingen og prosjektleder for Norsk register for døvblinde
+
+    - role: Forsker
+      time: 2008 - 2011
+      company: SINTEF Teknologi og samfunn
+      details: |
+        - Arbeidsområder innenfor global helse tematikk
+        - Involvert i forskjellige epidemiologiske studier i Sørlige Afrika
+        - Ansvarlig for innsamling og analyse av kvantitative data
+
+projects:
+    title: Prosjekter
+    intro: |
+
+    assignments:
+      - title: Resultattjenester for Nasjonalt traumeregister
+        link: https://ybkamaleri.github.io/traume/
+        tagline: "Viser bare en test versjon pgs. personvernforordningen (GDPR) og sensitiv informasjon."
+
+      - title: Living conditions study among people with disabilities in Botswana
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Living conditions study among people with disabilities in Lesotho
+        link: http://www.washingtongroup-disability.com/wp-content/uploads/2016/03/Report_Lesotho_310111.pdf
+        tagline: "Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO."
+
+publications:
+    title: Publikasjoner
+    intro: |
+
+    papers:
+      - title: "Changes in quality of life in individuals with narcolepsy type 1 after the H1N1-influenza
+                epidemic and vaccination campaign in Norway: a two-year prospective cohort study"
+        authors: Nordstranda SH, Hansen BJ, Kamaleri Y, Nilsene KB, Rootwelt T, Karlsen TI, Knudsen S.
+        conference: "Sleep Medicine. 2018"
+
+      - title: "Seeking care for epilepsy and its impacts on households in a rural district in southern Malawi"
+        authors: Munthali A, Braathen SH, Grut L, Kamaleri Y, Ingstad B.
+        conference: "African journal of disability. 2013"
+
+      - title: "Incidence of narcolepsy in norwegian children and adolescents after vaccination against H1N1 influenza."
+        authors: Heier MS, Gautvik KM, Wannag E, Bronder KH, Midtlyng E, Kamaleri Y, Storsaeter J.
+        conference: "Sleep Med. 2013"
+
+skills:
+    title: Teknisk kunnskap &amp; verktøy
+
+    toolset:
+      - name: R
+        level: 80%
+
+      - name: Emacs
+        level: 75%
+
+      - name: RStudio
+        level: 75%
+
+      - name: Linux
+        level: 70%
+
+      - name: Ink & Gimp
+        level: 65%
+
+      - name: HTML5 & CSS
+        level: 55%
+
+      - name: Oljemaling
+        level: 50%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
