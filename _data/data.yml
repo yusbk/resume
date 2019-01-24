@@ -28,16 +28,16 @@ sidebar:
         level: Morsmål
 
       - idiom: Norsk
-        level: Godt
+        level: Meget godt
 
       - idiom: Engelsk
-        level: Godt
+        level: Meget godt
 
       - idiom: Indonesisk
         level: Godt
 
       - idiom: Arabisk
-        level: Basis
+        level: Noe
         
     interests:
       - item: Badminton
@@ -48,6 +48,8 @@ sidebar:
 
       - item: Løping
         link: http://www.racetimer.se/en/runner/show/4864075?layout=blodomloppet&race_id=2901
+
+      - item: Frivillig arbeid
 
 
 career-profile:
@@ -164,7 +166,7 @@ skills:
       - name: Linux
         level: 70%
 
-      - name: Ink & Gimp
+      - name: Inkscape & Gimp
         level: 65%
 
       - name: HTML5 & CSS
