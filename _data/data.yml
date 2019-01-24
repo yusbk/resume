@@ -55,11 +55,12 @@ sidebar:
 career-profile:
     title: Om meg
     summary: |
-     Jeg har gode erfaring i arbeid med store data og visualisering. I tillegg trives jeg å
-     programmere i <strong>R</strong> og har gode analytiske egenskaper. Noen av mine arbeider finnes på min
-     [Github](https://www.github.com/ybkamaleri) side. Jeg benytter Shiny for interaktive og
-     dynamiske webapplikasjoner og LaTeX eller Markdown til automatisert rapportering.
-     Kjennskap til HTML, CSS og JavaScript er nødvendig for et bedre resultat.
+     Jeg har gode erfaring i arbeid med håndtering av store data og
+     visualisering. Dette er fordi jeg trives i å programmere særlig i
+     <strong>R</strong> og har gode analytiske egenskaper. Noen av mine arbeider
+     finnes på min [Github](https://www.github.com/ybkamaleri) side. Jeg benytter
+     Shiny for interaktive og dynamiske webapplikasjoner og LaTeX eller Markdown til
+     automatisert rapportering.
 
      Høy motivasjon og arbeidskapasitet er noe jeg har og disse er avgjørende for å klare å
      gjennomføre de ymse oppgavene jeg har.
@@ -118,19 +119,44 @@ experiences:
 projects:
     title: Prosjekter
     intro: |
+       Utvalgte prosjekter jeg var involvert i. Noen av de har jeg vært involvert i
+       bare del av enten i begynnelsen eller mot slutten.
 
     assignments:
       - title: Resultattjenester for Nasjonalt traumeregister
         link: https://ybkamaleri.github.io/traume/
-        tagline: "Viser bare en test versjon pgs. personvernforordningen (GDPR) og sensitiv informasjon."
+        tagline: "En applikasjon som gir oversikt om traume hendelse i Norge generell og i
+                  de forskjellige helse foretaker. Løsningen bidrar også i planlegging av
+                  bemaningen i et traume senter. Her viser det bare en test versjon pgs.
+                  personvernforordningen (GDPR) og sensitiv informasjon."
 
-      - title: Living conditions study among people with disabilities in Botswana
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: rreg package
+        link: https://cran.r-project.org/web/packages/rreg/index.html
+        tagline: "R pakke på CRAN for visualisering av nasjonale helse registre."
 
-      - title: Living conditions study among people with disabilities in Lesotho
+      - title: Fighting poverty throught alcohol misuse prevention in Malawi, SINTEF Helse
+        link: "https://www.sintef.no/globalassets/upload/teknologi_samfunn/alma-project-description_revidert.pdf"
+        tagline: "Ansvarlig som prosjektleder. Prosjektet er NFR finansiert."
+
+      - title: A national survey of living conditions among people with disabilities in Botswana
+        link: https://www.researchgate.net/profile/Arne_H_Eide/publication/307475712_Living_conditions_among_people_with_disability_in_Botswana/links/57f2418c08ae886b897a076c/Living-conditions-among-people-with-disability-in-Botswana.pdf
+        tagline: "Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO. Jeg var involvert i begynnelsen
+                  i planlegging prosessen og nettverksbygging"
+
+      - title: A national survey of living conditions among people with disabilities in Swaziland
+        link: https://www.sintef.no/globalassets/upload/samfunn/finalreportlc_swasilandweb.pdf
+        tagline: "Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO. Jeg hadde hovedansvar for opplæring,
+                 datainnsamling og -analyser"
+
+      - title: A national survey of living conditions study among people with disabilities in Lesotho
         link: http://www.washingtongroup-disability.com/wp-content/uploads/2016/03/Report_Lesotho_310111.pdf
-        tagline: "Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO."
+        tagline: "Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO. Jeg hadde hovedansvar for opplæring,
+                 datainnsamling og -analyser"
+
+      - title: A national survey of living conditions among people with disabilities in Mozambique
+        link: https://www.sintef.no/globalassets/upload/helse/levekar-og-tjenester/lc-report-mozambique---2nd-revision.pdf
+        tagline: "Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO. Jeg hadde hovedansvar for opplæring,
+                 datainnsamling og -analyser"
 
 publications:
     title: Publikasjoner
