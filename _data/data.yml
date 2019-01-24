@@ -192,6 +192,9 @@ skills:
       - name: Linux
         level: 70%
 
+      - name: SQL
+        level: 40%
+
       - name: Inkscape & Gimp
         level: 65%
 
