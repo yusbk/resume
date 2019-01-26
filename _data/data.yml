@@ -142,7 +142,7 @@ projects:
     assignments:
       - title: rreg package
         link: https://cran.r-project.org/web/packages/rreg/index.html
-        tagline: "En R pakke for presentasjon av resultater og tilpasset visualisering av nasjonale helse registre data."
+        tagline: "En R pakke for presentasjon av resultater og tilpasset visualisering av nasjonale helseregistredata."
 
       - title: aimPlot package
         link: https://cran.r-project.org/web/packages/aimPlot/index.html
@@ -152,15 +152,15 @@ projects:
         link:  https://ybkamaleri.github.io/traume/
         tagline: "En applikasjon bearbeidet i R
         og presentert i Shiny som gir fortløpende oversikt om traumehendelser i de
-        forskjellige helse foretakene. Løsningen bidrar også til planlegging av
+        forskjellige helseforetakene. Løsningen bidrar også til planlegging av
         bemaningen i et traumesenter. I tillegg kan det brukes som verktøy i administrasjon via
-        en tipassent rapport generator. Linken viser en test versjon av applikasjonen pgs.
+        en tipasset rapportgenerator. Linken viser en testversjon av applikasjonen pgs.
         personvernforordningen (GDPR) og sensitiv informasjon."
 
       - title: A national survey of living conditions among people with disabilities in Lesotho
         link: http://www.washingtongroup-disability.com/wp-content/uploads/2016/03/Report_Lesotho_310111.pdf
-        tagline: "En kvantitative befolkningsundersøkelse blant mennesker med funksjonshemmende i Lesotho
-                  om deres livs tilstand. Jeg hadde hovedansvaret for å lage data innregistreringssystem, opplæring,
+        tagline: "En kvantitativ befolkningsundersøkelse blant mennesker med funksjonshemninger i Lesotho
+                  om deres livstilstand. Jeg hadde hovedansvaret for å lage datainnregistreringssystem, opplæring,
                   datainnsamling og -analyse. Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO."
 
       - title: Fighting poverty throught alcohol misuse prevention in Malawi
@@ -170,8 +170,8 @@ projects:
 
       - title: A national survey of living conditions among people with disabilities in Botswana
         link: https://www.researchgate.net/profile/Arne_H_Eide/publication/307475712_Living_conditions_among_people_with_disability_in_Botswana/links/57f2418c08ae886b897a076c/Living-conditions-among-people-with-disability-in-Botswana.pdf
-        tagline: "En kvantitative befolkningsundersøkelse blant mennesker med funksjonshemmende i Botswana
-                  om deres livs tilstand. Jeg var involvert i begynnelsen i planlegging prosessen og nettverksbygging.
+        tagline: "En kvantitativ befolkningsundersøkelse blant mennesker med funksjonshemninger i Botswana
+                  om deres livstilstand. Jeg var involvert i begynnelsen i planleggingprosessen og nettverksbygging.
                   Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO."
 
       - title: A national survey of living conditions among people with disabilities in Swaziland
