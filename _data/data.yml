@@ -116,11 +116,28 @@ experiences:
         - Involvert i forskjellige epidemiologiske studier i Sørlige Afrika
         - Ansvarlig for innsamling og analyse av kvantitative data
 
+    - role: Stipendiat
+      time: 2004 - 2008
+      company: Universitetet i Oslo
+      details: |
+        - Gjennomførte en doktorgradsstudie i epidemiologi og helsestatistikk hos Institutt
+        for helse og samfunn, Det medisinske fakultet
+
+    - role: Arkivmedarbeider
+      time: 2001 - 2004
+      company: Det Norske Veritas
+      details: |
+        - Registrering og digitalisering av båttegninger
+
+    - role: Forskningsassistent
+      time: 1998 - 2000
+      company: University Malaysia Sarawak, Malaysia
+      details: |
+        - Involvert i forskjellige forskningsprojekter innenfor <em>human-machine interaction</em> felt
+
 projects:
     title: Prosjekter
     intro: |
-       Utvalgte prosjekter jeg var involvert i. Noen av de har jeg vært involvert i
-       bare deler av enten i begynnelsen eller mot slutten.
 
     assignments:
       - title: rreg package
@@ -140,14 +157,14 @@ projects:
         en tipassent rapport generator. Linken viser en test versjon av applikasjonen pgs.
         personvernforordningen (GDPR) og sensitiv informasjon."
 
-      - title: A national survey of living conditions study among people with disabilities in Lesotho
+      - title: A national survey of living conditions among people with disabilities in Lesotho
         link: http://www.washingtongroup-disability.com/wp-content/uploads/2016/03/Report_Lesotho_310111.pdf
         tagline: "En kvantitative befolkningsundersøkelse blant mennesker med funksjonshemmende i Lesotho
                   om deres livs tilstand. Jeg hadde hovedansvaret for å lage data innregistreringssystem, opplæring,
                   datainnsamling og -analyse. Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO."
 
-      - title: Fighting poverty throught alcohol misuse prevention in Malawi, SINTEF Helse
-        link: "https://www.sintef.no/globalassets/upload/teknologi_samfunn/alma-project-description_revidert.pdf"
+      - title: Fighting poverty throught alcohol misuse prevention in Malawi
+        link: https://www.sintef.no/globalassets/upload/teknologi_samfunn/alma-project-description_revidert.pdf
         tagline: "Et forskningsprosjekt om bruk og misbruk av alkohol i Malawi. Jeg var ansvarlig som prosjektleder
                   i prosjektplanlegging og nettverksbygging. Prosjektet er NFR finansiert."
 
@@ -162,10 +179,10 @@ projects:
         tagline: "Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO. Jeg hadde hovedansvar for opplæring,
                  datainnsamling og -analyser"
 
-         - title: A national survey of living conditions among people with disabilities in Mozambique
+      - title: A national survey of living conditions among people with disabilities in Mozambique
         link: https://www.sintef.no/globalassets/upload/helse/levekar-og-tjenester/lc-report-mozambique---2nd-revision.pdf
-        tagline: "Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO. Jeg hadde hovedansvar for opplæring,
-                 datainnsamling og -analyser"
+        tagline: "Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO. Jeg hadde hovedansvar analyser
+                 og presentasjon av dataene"
 
 publications:
     title: Publikasjoner
@@ -181,9 +198,39 @@ publications:
         authors: Munthali A, Braathen SH, Grut L, Kamaleri Y, Ingstad B.
         conference: "African journal of disability. 2013"
 
-      - title: "Incidence of narcolepsy in norwegian children and adolescents after vaccination against H1N1 influenza."
+      - title: "Incidence of narcolepsy in norwegian children and adolescents after vaccination against H1N1 influenza"
         authors: Heier MS, Gautvik KM, Wannag E, Bronder KH, Midtlyng E, Kamaleri Y, Storsaeter J.
         conference: "Sleep Med. 2013"
+
+      - title: "Symptom load and functional status: results from the Ullensaker population study"
+        authors: Bruusgaard D, Tschudi-Madsen H, Kamaleri Y, Ihlebaek C, Natvig B.
+        conference: "BMC Public Health. 2012"
+
+      - title: "Astrong association between non-musculoskeletal symptoms and musculoskeletal pain symptoms. Results from a population study"
+        authors: Tschudi-Madsen H, Kjeldsberg M, Natvig B, Ihlebaek C, Dalen I, Kamaleri Y, Straand J, Bruusgaard D.
+        conference: "BMC Musculoskelet Disord. 2011"
+
+      - title: "Number of pain sites – a simple measure of population risk? In:
+                <em>Chronic Pain Epidemiology. From Aetiology to Public Health.</em> Croft P, Blyth F, van der Windt D (ed.)."
+        authors: Natvig B, Ihlebaek C, Kamaleri Y, Bruusgaard D.
+        conference: "Oxford University Press: Oxford. 2010"
+
+      - title: "Change in the number of musculoskeletal pain sites: A 14-year prospective study"
+        authors: Kamaleri Y, Natvig B, Ihlebaek CM, Benth JS, Bruusgaard D.
+        conference: "Pain. 2009"
+
+      - title: "Does the number of musculoskeletal pain sites predict work disability? A 14-year prospective study"
+        authors: Kamaleri Y, Natvig B, Ihlebaek CM, Bruusgaard D.
+        conference: "Eur J Pain. 2009"
+
+      - title: "Localized or widespread musculoskeletal pain: does it matter?"
+        authors: Kamaleri Y, Natvig B, Ihlebaek CM, Bruusgaard D.
+        conference: "Pain. 2008"
+
+      - title: "Number of pain sites is associated with demographic, lifestyle, and health-related factors in the general population"
+        authors: Kamaleri Y, Natvig B, Ihlebaek CM, Benth JS, Bruusgaard D.
+        conference: "Eur J Pain. 2008"
+
 
 skills:
     title: Teknisk kunnskap &amp; verktøy
