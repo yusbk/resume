@@ -55,8 +55,8 @@ sidebar:
 career-profile:
     title: Om meg
     summary: |
-     Jeg har gode erfaring i arbeid med håndtering av store data og
-     visualisering. Dette er fordi jeg trives i å programmere særlig i
+     Jeg har god erfaring i arbeid med håndtering av store data og
+     visualisering. Dette er fordi jeg trives med å programmere særlig i
      <strong>R</strong> og har gode analytiske egenskaper. Noen av mine arbeider
      finnes på min [Github](https://www.github.com/ybkamaleri) side. Jeg benytter
      Shiny for interaktive og dynamiske webapplikasjoner og LaTeX eller Markdown til
@@ -76,7 +76,7 @@ education:
       time: 2001 - 2003
       details: |
 
-    - degree: BSc. (Hons) in Psychology
+    - degree: BSc. (Hons) i Psykologi
       university: International Islamic University Malaysia
       time: 1993 - 1997
 
@@ -85,10 +85,10 @@ experiences:
       time: 2018 - Present
       company: Avdeling for barnemedisin, Oslo universitetssykehus
       details: |
-        - Ansvarlig for håndterings og bearbeiding av data i Nasjonalt medisinsk
+        - Ansvarlig for håndtering og bearbeiding av data i Nasjonalt medisinsk
           kvalitetsregister for barne- og ungdomsdiabetes (BDR)
         - Gjennomføre statistisk analyse av BDR data
-        - Støtter forsker og stipendiater som benytter BDR data i analyse arbeid
+        - Støtter forskere og stipendiater med tilretteleging av BDR data
 
     - role: Spesialrådgiver
       time: 2014 - 2018
@@ -96,14 +96,14 @@ experiences:
       details: |
         - Arbeidsområder knyttet til Nasjonalt Servicemiljø for medisinske kvalitetsregistre, Region Sør-Øst
         - Ansvarlig for statistikk og analyse av helseregisterdata
-        - Utvikle visualisering for resultattjenester av kvalitetsregistre
+        - Utvikle visualisering av resultattjenester av kvalitetsregistre
         - Arbeidsoppgaver knyttet til nasjonale medisinske kvalitetsregistre
 
     - role: Seniorforsker
       time: 2011 - 2014
       company: Avdeling for barnemedisin, Oslo universitetssykehus
       details: |
-        - Arbeidsområder knyttet til Nasjonale kompetansetjenester for sjeldne diagnose og funksjonshemninger
+        - Arbeidsområder knyttet til Nasjonale kompetansetjenester for sjeldne diagnoser og funksjonshemninger
         - Ansvarlig for tilrettelegging av datainnsamling for forskningsprojekter
         - Bidrar og veileder for statistikk og dataanalyse
         - Forskningsgruppeleder i avdelingen og prosjektleder for Norsk register for døvblinde
@@ -112,7 +112,7 @@ experiences:
       time: 2008 - 2011
       company: SINTEF Teknologi og samfunn
       details: |
-        - Arbeidsområder innenfor global helse tematikk
+        - Arbeidsområder innenfor global helsetematikk
         - Involvert i forskjellige epidemiologiske studier i Sørlige Afrika
         - Ansvarlig for innsamling og analyse av kvantitative data
 
@@ -120,14 +120,14 @@ projects:
     title: Prosjekter
     intro: |
        Utvalgte prosjekter jeg var involvert i. Noen av de har jeg vært involvert i
-       bare del av enten i begynnelsen eller mot slutten.
+       bare deler av enten i begynnelsen eller mot slutten.
 
     assignments:
       - title: Resultattjenester for Nasjonalt traumeregister
         link: https://ybkamaleri.github.io/traume/
-        tagline: "En applikasjon som gir oversikt om traume hendelse i Norge generell og i
-                  de forskjellige helse foretaker. Løsningen bidrar også i planlegging av
-                  bemaningen i et traume senter. Her viser det bare en test versjon pgs.
+        tagline: "En applikasjon som gir fortløpende oversikt om traumehendelser i
+                  de forskjellige helse foretakene. Løsningen bidrar også til planlegging av
+                  bemaningen i et traumesenter. Linken viser en test versjon av applikasjonen pgs.
                   personvernforordningen (GDPR) og sensitiv informasjon."
 
       - title: rreg package
@@ -195,11 +195,11 @@ skills:
       - name: SQL
         level: 40%
 
-      - name: Inkscape & Gimp
-        level: 65%
-
       - name: HTML5 & CSS
         level: 55%
+
+      - name: Inkscape & Gimp
+        level: 65%
 
       - name: Oljemaling
         level: 50%
