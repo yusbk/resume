@@ -123,16 +123,20 @@ projects:
        bare deler av enten i begynnelsen eller mot slutten.
 
     assignments:
+      - title: rreg package
+        link: https://cran.r-project.org/web/packages/rreg/index.html
+        tagline: "R pakke på CRAN for visualisering av nasjonale helse registre."
+
+      - title: aimPlot package
+        link: https://cran.r-project.org/web/packages/aimPlot/index.html
+        tagline: "R pakke på CRAN for informative visualisering om måloppnåelse"
+
       - title: Resultattjenester for Nasjonalt traumeregister
         link: https://ybkamaleri.github.io/traume/
         tagline: "En applikasjon som gir fortløpende oversikt om traumehendelser i
                   de forskjellige helse foretakene. Løsningen bidrar også til planlegging av
                   bemaningen i et traumesenter. Linken viser en test versjon av applikasjonen pgs.
                   personvernforordningen (GDPR) og sensitiv informasjon."
-
-      - title: rreg package
-        link: https://cran.r-project.org/web/packages/rreg/index.html
-        tagline: "R pakke på CRAN for visualisering av nasjonale helse registre."
 
       - title: Fighting poverty throught alcohol misuse prevention in Malawi, SINTEF Helse
         link: "https://www.sintef.no/globalassets/upload/teknologi_samfunn/alma-project-description_revidert.pdf"
