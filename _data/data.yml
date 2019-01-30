@@ -158,8 +158,8 @@ projects:
 
       - title: BDR kodebok
         link: https://bdreg.github.io/kodebok/
-        tagline: "Søkbar variabeldefinisjon og -verdi som finnes i databasen for Nasjonalt medisinsk kvalitetsregister for
-        barne- og ungdomsdiabetes (BDR)"
+        tagline: "Søkbare og indekset variabeldefinisjoner og -verdier som finnes i databasen for
+        Nasjonalt medisinsk kvalitetsregister for barne- og ungdomsdiabetes (BDR)"
 
       - title: Resultattjenester for Nasjonalt traumeregister
         link:  https://ybkamaleri.github.io/traume/
