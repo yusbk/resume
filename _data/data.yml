@@ -153,7 +153,7 @@ projects:
 
       - title: aimPlot package
         link: https://cran.r-project.org/web/packages/aimPlot/index.html
-        tagline: "En R pakke for informative visualisering om måloppnåelse"
+        tagline: "En R pakke for informativ visualisering om måloppnåelse"
 
       - title: BDR kodebok
         link: https://bdreg.github.io/kodebok/
