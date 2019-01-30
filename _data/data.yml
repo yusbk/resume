@@ -55,12 +55,13 @@ sidebar:
 career-profile:
     title: Om meg
     summary: |
-     Jeg har god erfaring i arbeid med håndtering av store data og
+     Jeg har god erfaring i arbeid med håndtering av store datamengder og
      visualisering. Dette er fordi jeg trives med å programmere særlig i
      <strong>R</strong> og har gode analytiske egenskaper. Noen av mine arbeider
      finnes på min [Github](https://www.github.com/ybkamaleri) side. Jeg benytter
-     Shiny for interaktive og dynamiske webapplikasjoner og LaTeX eller Markdown til
-     automatisert rapportering.
+     [Shiny](https://shiny.rstudio.com/) for interaktive og dynamiske webapplikasjoner
+     og [LaTeX](https://www.latex-project.org/) eller [Markdown](https://en.wikipedia.org/wiki/Markdown)
+     til automatisert rapportering.
 
      Høy motivasjon og arbeidskapasitet er noe jeg har og disse er avgjørende for å klare å
      gjennomføre de ymse oppgavene jeg har.
@@ -70,8 +71,8 @@ education:
       university: Universitetet i Oslo
       time: 2004 - 2009
       details: |
-        Tittel til doktoravhandling er <em>"Muskel- og skjelettplager i den generelle befolkning:
-        en epidemiologisk studie"</em>
+        Tittel til doktoravhandling er <em>["Muskel- og skjelettplager i den generelle befolkning:
+        en epidemiologisk studie"](https://www.med.uio.no/helsam/forskning/aktuelt/arrangementer/disputaser/2009/kamaleri-yusman.html)</em>
 
     - degree: Mastergrad i internasjonal samfunnshelse
       university: Universitetet i Oslo
