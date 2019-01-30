@@ -1,10 +1,10 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Syntax mesti serupa dengan yang tersedia
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yusman Kamaleri
@@ -70,15 +70,22 @@ education:
       university: Universitetet i Oslo
       time: 2004 - 2009
       details: |
+        Tittel til doktoravhandling er <em>"Muskel- og skjelettplager i den generelle befolkning:
+        en epidemiologisk studie"</em>
 
     - degree: Mastergrad i internasjonal samfunnshelse
       university: Universitetet i Oslo
       time: 2001 - 2003
       details: |
+        Tittel til masteroppgave er <em>"Psykisk stress og muskel- og skjelettsmerte:
+        en befolkningsbasert kohortstudie"</em>
 
     - degree: BSc. (Hons) i Psykologi
       university: International Islamic University Malaysia
       time: 1993 - 1997
+      details: |
+        Godkjent av Det samfunnsvitenskapelige fakultet ved Universitetet i Oslo den 6. mars 2000
+        som tilsvarende norsk cand. mag.-eksamen
 
 experiences:
     - role: Statistiker
@@ -148,9 +155,14 @@ projects:
         link: https://cran.r-project.org/web/packages/aimPlot/index.html
         tagline: "En R pakke for informative visualisering om måloppnåelse"
 
+      - title: BDR kodebok
+        link: https://bdreg.github.io/kodebok/
+        tagline: "Søkbar variabeldefinisjon og -verdi som finnes i databasen for den Nasjonalt medisinsk kvalitetsregister for
+        barne- og ungdomsdiabetes (BDR)"
+
       - title: Resultattjenester for Nasjonalt traumeregister
         link:  https://ybkamaleri.github.io/traume/
-        tagline: "En applikasjon bearbeidet i R
+        tagline: "En interaktiv applikasjon bearbeidet i R
         og presentert i Shiny som gir fortløpende oversikt om traumehendelser i de
         forskjellige helseforetakene. Løsningen bidrar også til planlegging av
         bemaningen i et traumesenter. I tillegg kan det brukes som verktøy i administrasjon via
