@@ -157,7 +157,7 @@ projects:
 
       - title: BDR kodebok
         link: https://bdreg.github.io/kodebok/
-        tagline: "Søkbar variabeldefinisjon og -verdi som finnes i databasen for den Nasjonalt medisinsk kvalitetsregister for
+        tagline: "Søkbar variabeldefinisjon og -verdi som finnes i databasen for Nasjonalt medisinsk kvalitetsregister for
         barne- og ungdomsdiabetes (BDR)"
 
       - title: Resultattjenester for Nasjonalt traumeregister
@@ -254,7 +254,7 @@ skills:
 
     toolset:
       - name: R
-        level: 80%
+        level: 85%
 
       - name: Emacs
         level: 75%
@@ -269,7 +269,7 @@ skills:
         level: 40%
 
       - name: HTML5 & CSS
-        level: 55%
+        level: 50%
 
       - name: Inkscape & Gimp
         level: 65%
