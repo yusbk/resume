@@ -56,9 +56,9 @@ career-profile:
     title: Om meg
     summary: |
      Jeg har god erfaring i arbeid med håndtering av store datamengder og
-     visualisering. Dette er fordi jeg trives med å programmere særlig i
-     <strong>R</strong> og har gode analytiske egenskaper. Noen av mine arbeider
-     finnes på min [Github](https://www.github.com/ybkamaleri) side. Jeg benytter
+     visualisering som krever gode analytiske egenskaper. Dette er fordi jeg trives
+     med å programmere særlig i <strong>R</strong> og noen ganger i <strong>Python</strong>.
+     Noen av mine arbeider finnes på min [Github](https://www.github.com/ybkamaleri) side. Jeg benytter
      [Shiny](https://shiny.rstudio.com/) for interaktive og dynamiske webapplikasjoner
      og [LaTeX](https://www.latex-project.org/) eller [Markdown](https://en.wikipedia.org/wiki/Markdown)
      til automatisert rapportering.
@@ -262,6 +262,9 @@ skills:
 
       - name: RStudio
         level: 75%
+
+      - name: Python
+        level: 50%
 
       - name: Linux
         level: 70%
