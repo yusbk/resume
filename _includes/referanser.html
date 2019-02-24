@@ -1,0 +1,28 @@
+{% assign referanser = site.data.data.referanser %}
+{% if referanser %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ referanser.title }}
+  </h2>
+
+  {% if referanser.intro %}
+  <div class="intro">
+    {{ referanser.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for referanser in referanser.personer %}
+  <div class="item">
+    <div class="publication-title">{{ referanser.name }}</div>
+    <div class="publication-authors">{{ referanser.stilling }}</div>
+    <div class="publication-conference">{{ referanser.kontakt }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
