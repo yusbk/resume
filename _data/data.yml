@@ -63,8 +63,6 @@ career-profile:
      og [LaTeX](https://www.latex-project.org/) eller [Markdown](https://en.wikipedia.org/wiki/Markdown)
      til automatisert rapportering.
 
-     Høy motivasjon og arbeidskapasitet er noe jeg har og disse er avgjørende for å klare å
-     gjennomføre de ymse oppgavene jeg har.
 
 education:
     - degree: PhD i Epidemiologi og helsestatistikk
@@ -96,7 +94,7 @@ experiences:
         - Ansvarlig for håndtering og bearbeiding av data i Nasjonalt medisinsk
           kvalitetsregister for barne- og ungdomsdiabetes (BDR)
         - Gjennomføre statistisk analyse av BDR data
-        - Støtter forskere og stipendiater med tilretteleging av BDR data
+        - Støtter forskere og stipendiater med tilrettelegging av BDR data
 
     - role: Spesialrådgiver
       time: 2014 - 2018
@@ -112,7 +110,7 @@ experiences:
       company: Avdeling for barnemedisin, Oslo universitetssykehus
       details: |
         - Arbeidsområder knyttet til Nasjonale kompetansetjenester for sjeldne diagnoser og funksjonshemninger
-        - Ansvarlig for tilrettelegging av datainnsamling for forskningsprojekter
+        - Ansvarlig for tilrettelegging av datainnsamling for forskningsprosjekter
         - Bidrar og veileder for statistikk og dataanalyse
         - Forskningsgruppeleder i avdelingen og prosjektleder for Norsk register for døvblinde
 
@@ -141,7 +139,7 @@ experiences:
       time: 1998 - 2000
       company: University Malaysia Sarawak, Malaysia
       details: |
-        - Involvert i forskjellige forskningsprojekter innenfor <em>human-machine interaction</em> felt
+        - Involvert i forskjellige forskningsprosjekter innenfor <em>human-machine interaction</em> felt
 
 projects:
     title: Prosjekter
@@ -158,7 +156,7 @@ projects:
 
       - title: BDR kodebok
         link: https://bdreg.github.io/kodebok/
-        tagline: "Søkbare og indekset variabeldefinisjoner og -verdier som finnes i databasen for
+        tagline: "Søkbare og indeksert variabeldefinisjoner og -verdier som finnes i databasen for
         Nasjonalt medisinsk kvalitetsregister for barne- og ungdomsdiabetes (BDR)"
 
       - title: Resultattjenester for Nasjonalt traumeregister
@@ -166,14 +164,14 @@ projects:
         tagline: "En interaktiv applikasjon bearbeidet i R
         og presentert i Shiny som gir fortløpende oversikt om traumehendelser i de
         forskjellige helseforetakene. Løsningen bidrar også til planlegging av
-        bemaningen i et traumesenter. I tillegg kan det brukes som verktøy i administrasjon via
-        en tipasset rapportgenerator. Linken viser en testversjon av applikasjonen pgs.
+        bemanningen i et traumesenter. I tillegg kan det brukes som verktøy i administrasjon via
+        en tilpasset rapportgenerator. Linken viser en testversjon av applikasjonen pga.
         personvernforordningen (GDPR) og sensitiv informasjon."
 
       - title: A national survey of living conditions among people with disabilities in Lesotho
         link: http://www.washingtongroup-disability.com/wp-content/uploads/2016/03/Report_Lesotho_310111.pdf
         tagline: "En kvantitativ befolkningsundersøkelse blant mennesker med funksjonshemninger i Lesotho
-                  om deres livstilstand. Jeg hadde hovedansvaret for å lage datainnregistreringssystem, opplæring,
+                  om deres livstilstand. Jeg hadde hovedansvaret for å lage data innregistreringssystem, opplæring,
                   datainnsamling og -analyse. Prosjektet var finansiert av NORAD og gjennomført i samarbeid med FFO."
 
       - title: Fighting poverty throught alcohol misuse prevention in Malawi
@@ -262,6 +260,9 @@ skills:
 
       - name: RStudio
         level: 75%
+
+      - name: LaTeX & Markdown
+        level: 80%
 
       - name: Python
         level: 50%
