@@ -286,10 +286,8 @@ skills:
 referanser:
   title: Referanser
   intro: |
-  
-  # Referanser oppgis på forespørsel
 
-   personer:
+  personer:
      - name: Frode Heimdal
        stilling: "Rådgiver/IKT utvikler, Nasjonalt Servicemiljø for medisinske kvalitetsregistre, OUS"
        kontakt: " 970-61-404"
