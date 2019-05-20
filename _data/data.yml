@@ -285,20 +285,21 @@ skills:
 
 referanser:
   title: Referanser
-  intro: |
+  intro: Referanser oppgis på forespørsel
+  # intro: |
 
-  personer:
-     - name: Frode Heimdal
-       stilling: "Rådgiver/IKT utvikler, Nasjonalt Servicemiljø for medisinske kvalitetsregistre, OUS"
-       kontakt: " 970-61-404"
+  # personer:
+  #    - name: Frode Heimdal
+  #      stilling: "Rådgiver/IKT utvikler, Nasjonalt Servicemiljø for medisinske kvalitetsregistre, OUS"
+  #      kontakt: " 970-61-404"
 
-     - name: Ann Kristin Drivvoll
-       stilling: Rådgiver og statistiker, Analyseavd. Sykehus Østfold. Tidligere som statistiker og kollega i OUS
-       kontakt: " 957-89-563"
+  #    - name: Ann Kristin Drivvoll
+  #      stilling: Rådgiver og statistiker, Analyseavd. Sykehus Østfold. Tidligere som statistiker og kollega i OUS
+  #      kontakt: " 957-89-563"
 
-     - name: Øyvind Hesselberg
-       stilling: Spesialkonsulent, Oslo kommune. Tidligere kollega i medisinske kvalitetsregistre, OUS
-       kontakt: " 916-18-106"
+  #    - name: Øyvind Hesselberg
+  #      stilling: Spesialkonsulent, Oslo kommune. Tidligere kollega i medisinske kvalitetsregistre, OUS
+  #      kontakt: " 916-18-106"
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
