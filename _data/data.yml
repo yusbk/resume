@@ -88,8 +88,16 @@ education:
         som tilsvarende norsk cand. mag.-eksamen
 
 experiences:
+    - role: Seniorrådgiver
+      time: 2019 - Present
+      company: Avdeling for helse og ulikhet, Folkehelseinstituttet
+      details: |
+        - Ansvarlig for vedlikeholder databasen for behandling av data for Norges- og Kommunehelse
+        - Utvikle løsninger for bearbeiding og rensing av data i R
+        - Håndtering og strukturering av data
+        - Bidra til kobling og uthenting av data via API
     - role: Statistiker
-      time: 2018 - Present
+      time: 2018 - 2019
       company: Avdeling for barnemedisin, Oslo universitetssykehus
       details: |
         - Ansvarlig for håndtering og bearbeiding av data i Nasjonalt medisinsk
@@ -147,6 +155,14 @@ projects:
     intro: |
 
     assignments:
+      - title: norgeo package
+        link: https://helseprofil.github.io/norgeo
+        tagline: "En R pakke for uthenting og sporing av endringer i geografiske koder fra SSB via API"
+
+      - title: orgdata package
+        link: https://helseprofil.github.io/orgdata
+        tagline: "En R pakke for bearbeiding, kobling og rensing av norges- og kommunehelse data."
+
       - title: rreg package
         link: https://cran.r-project.org/web/packages/rreg/index.html
         tagline: "En R pakke for presentasjon av resultater og tilpasset visualisering av nasjonale helseregistredata."
