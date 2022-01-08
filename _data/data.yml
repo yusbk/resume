@@ -172,7 +172,7 @@ projects:
         tagline: "En R pakke for informativ visualisering om måloppnåelse"
 
       - title: BDR kodebok
-        link: https://bdreg.github.io/kodebok/
+        link: https://bdreg.github.io/kodebok/?q=kjonn
         tagline: "Søkbare og indeksert variabeldefinisjoner og -verdier som finnes i databasen for
         Nasjonalt medisinsk kvalitetsregister for barne- og ungdomsdiabetes (BDR)"
 
