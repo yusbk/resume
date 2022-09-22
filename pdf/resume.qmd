@@ -27,6 +27,10 @@ format:
 <!-- CONTACT INFO -->
 \begin{center}ybkamaleri@gmail.com ∙ \href{https://github.com/ybkamaleri}{Github} 
 \end{center}
+\vspace{6pt}
+
+\begin{center}Avdeling helse og ulikehet \\ Folkehelseinstituttet \\ Postboks 4404 Nydalen \\ 0403 Oslo
+\end{center}
 \vspace{15pt}
 
 <!-- EDUCATION: 1ST BULLET -->
@@ -46,7 +50,7 @@ format:
   \vspace{-0.25cm}
   \textit{Avhandling: Muskel- og skjelettplager i den generelle befolkning: en epidemiologisk studie}
 \end{large}
-\vspace{2pt}
+\vspace{4pt}
 
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
@@ -62,7 +66,7 @@ format:
   \vspace{-0.25cm}
   \textit{Thesis: Psykisk stress og muskel- og skjelettsmerte: en befolkningsbasert kohortstudie}
 \end{large}
-\vspace{2pt}
+\vspace{4pt}
 
 <!-- EDUCATION: 3ND BULLET -->
 \begin{large}
@@ -77,7 +81,7 @@ format:
   \end{multicols}
   \vspace{-0.15cm}
 \end{large}
-\vspace{3pt}
+\vspace{7pt}
 
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf ARBEIDSERFARING}
@@ -90,9 +94,8 @@ format:
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}\textit{Forsker}\end
-    {flushleft}\begin{flushright}Oslo\end
-    {flushright}
-  \end{multicols}
+    {flushleft}
+    \end{multicols}
 \end{large}
 \vspace{-0.16cm}
 * Involvert i epidemiologiske studier om skader
@@ -109,8 +112,7 @@ format:
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}\textit{Seniorrådgiver}\end
-    {flushleft}\begin{flushright}Oslo\end
-    {flushright}
+    {flushleft}
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
@@ -129,8 +131,7 @@ format:
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}\textit{Statistiker}\end
-    {flushleft}\begin{flushright}Oslo\end
-    {flushright}
+    {flushleft}
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
@@ -142,33 +143,13 @@ format:
 <!-- EXPERIENCE : 4ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://oslo-universitetssykehus.no/}{Avd. barnemedisin, Oslo universitetssykehus}}\end{flushleft}
-    \begin{flushright}2018 - 2019\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Statistiker}\end
-    {flushleft}\begin{flushright}Oslo\end
-    {flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Håndtering og bearbeiding av data i barne- og ungdomsdiabetes register (BDR)
-* Gjennomføre statistisk analyse av BDR data
-
-\vspace{7pt}
-
-<!-- EXPERIENCE : 5ND BULLET -->
-\begin{large}
-  \begin{multicols}{2}
     \begin{flushleft}{\bf \href{https://oslo-universitetssykehus.no/}{IKT avd., Oslo universitetssykehus}}\end{flushleft}
     \begin{flushright}2014 - 2018\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}\textit{Spesialrådgiver}\end
-    {flushleft}\begin{flushright}Oslo\end
-    {flushright}
+    {flushleft}
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
@@ -177,7 +158,7 @@ format:
 
 \vspace{7pt}
 
-<!-- EXPERIENCE : 6ND BULLET -->
+<!-- EXPERIENCE : 5ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf \href{https://oslo-universitetssykehus.no/}{Avd. barnemedisin, Oslo universitetssykehus}}\end{flushleft}
@@ -186,8 +167,7 @@ format:
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}\textit{Seniorforsker}\end
-    {flushleft}\begin{flushright}Oslo\end
-    {flushright}
+    {flushleft}
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
@@ -197,7 +177,7 @@ format:
 
 \vspace{7pt}
 
-<!-- EXPERIENCE : 7ND BULLET -->
+<!-- EXPERIENCE : 6ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf \href{https://www.sintef.no/ekspertise/digital/helse/global-helse-og-teknologi/}{Global helse og teknologi, SINTEF}}\end{flushleft}
@@ -206,8 +186,7 @@ format:
   \vspace{-0.17cm}
   \begin{multicols}{2}
     \begin{flushleft}\textit{Forsker}\end
-    {flushleft}\begin{flushright}Oslo\end
-    {flushright}
+    {flushleft}
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
@@ -215,3 +194,92 @@ format:
 * Involvert i forskjellige epidemiologiske studier i Sørlige Afrika
 
 \vspace{7pt}
+
+\newpage
+
+<!-- PUBLICATION : 1 -->
+\begin{large}
+  {\bf PUBLIKASJONER}
+  \vspace{3pt}
+  \hrule
+  \href{https://www.sciencedirect.com/science/article/pii/S1389945718302569}{Changes in quality of life in individuals with narcolepsy type 1 after the H1N1-influenza epidemic and vaccination campaign in Norway: a two-year prospective cohort study} \newline
+  \textit{Nordstranda SH, Hansen BJ, Kamaleri Y, Nilsene KB, Rootwelt T, Karlsen TI, Knudsen S} \\
+  Sleep Medicine. 2018 Oct; 50:175-180
+\end{large}
+\vspace{2pt}
+
+<!-- PUBLICATION : 2 -->
+\begin{large}
+  \href{https://journals.co.za/doi/abs/10.4102/ajod.v2i1.54}{Seeking care for epilepsy and its impacts on households in a rural district in southern Malawi} \\
+  \textit{Munthali A, Braathen SH, Grut L, Kamaleri Y, Ingstad B} \\
+  African Journal of Disability. 2013 Jan 1; 2(1)
+\end{large}
+\vspace{2pt}
+
+<!-- PUBLICATION : 3 -->
+\begin{large}
+  \href{https://www.sciencedirect.com/science/article/pii/S1389945713001548}{Incidence of narcolepsy in Norwegian children and adolescents after vaccination against H1N1 influenza A} \\
+  \textit{Heier MS, Gautvik KM, Wannag E, Bronder KH, Midtlyng E, Kamaleri Y, Storsaeter J} \\
+  Sleep Medicine. 2013 Sept; 14(9):867-871
+\end{large}
+\vspace{2pt}
+
+<!-- PUBLICATION : 4 -->
+\begin{large}
+  \href{https://doi.org/10.1186/1471-2458-12-1085}{Symptom load and functional status: results from the Ullensaker population study} \\
+  \textit{Bruusgaard D, Tschudi-Madsen H, Ihlebæk C, Kamaleri Y, Natvig B} \\
+  BMC Public Health. 2012; 1085
+\end{large}
+\vspace{2pt}
+
+<!-- PUBLICATION : 5 -->
+\begin{large}
+  \href{https://doi.org/10.1186/1471-2474-12-285}{A strong association between non-musculoskeletal symptoms and musculoskeletal pain symptoms: results from a population study.} \\
+  \textit{Tschudi-Madsen H, Kjeldsberg M, Natvig B., Ihlebæk C, Dalen I, Kamaleri Y, Straand J, Bruusgaard D} \\
+  BMC Musculoskeletal Disorders. 2011; 285
+\end{large}
+\vspace{2pt}
+
+<!-- PUBLICATION : 6 -->
+\begin{large}
+  \begin{flushleft}
+    \href{https://books.google.no/books?hl=no&lr=&id=7xudB1HgHCAC&oi=fnd&pg=PA71&dq=kamaleri&ots=tzm7HD-O51&sig=CG5a4JCAlf2nygw3CeWOnkk_ce8&redir_esc=y#v=onepage&q=kamaleri&f=false}{Number of pain sites – a simple measure of population risk? In: Chronic Pain Epidemiology. \linebreak From Aetiology to Public Health. Croft P, Blyth F, van der Windt D (ed.)} \\
+    \textit{Natvig B., Ihlebæk C, Kamaleri Y, Bruusgaard D} \\
+    Oxford University Press: Oxford. 2010
+  \end{flushleft}
+\end{large}
+\vspace{2pt}
+
+<!-- PUBLICATION : 7 -->
+\begin{large}
+  \href{https://doi.org/10.1016/j.pain.2008.09.013}{Change in the number of musculoskeletal pain sites: A 14-year prospective study} \\
+  \textit{Kamaleri Y, Natvig B., Ihlebæk C, Saltyte-Benth J, Bruusgaard D} \\
+  Pain. 2009 Jan; 141(1-2):25-30
+\end{large}
+\vspace{2pt}
+
+<!-- PUBLICATION : 8 -->
+\begin{large}
+  \href{https://doi.org/10.1016/j.ejpain.2008.05.009}{Does the number of musculoskeletal pain sites predict work disability? A 14-year prospective study} \\
+  \textit{Kamaleri Y, Natvig B., Ihlebæk C, Saltyte-Benth J, Bruusgaard D} \\
+  Euro. Journal of Pain. 2009 Apr; 13(4):426-430
+\end{large}
+\vspace{2pt}
+
+<!-- PUBLICATION : 9 -->
+\begin{large}
+  \href{https://doi.org/10.1016/j.pain.2007.11.002}{Localized or widespread musculoskeletal pain: Does it matter?} \\
+  \textit{Kamaleri Y, Natvig B., Ihlebæk C, Saltyte-Benth J, Bruusgaard D} \\
+  Pain. 2008 Aug 15; 138(1):41-46
+\end{large}
+\vspace{2pt}
+
+<!-- PUBLICATION : 10 -->
+\begin{large}
+  \begin{flushleft}
+    \href{https://doi.org/10.1016/j.ejpain.2007.11.005}{Number of pain sites is associated with demographic, lifestyle, and health-related factors in \linebreak the general population} \\
+    \textit{Kamaleri Y, Natvig B., Ihlebæk C, Saltyte-Benth J, Bruusgaard D} \\
+    Euro. Journal of Pain. 2008 Aug; 12(6):742-748
+  \end{flushleft}
+\end{large}
+\vspace{2pt}
