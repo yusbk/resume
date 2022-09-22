@@ -243,7 +243,7 @@ format:
 <!-- PUBLICATION : 6 -->
 \begin{large}
   \begin{flushleft}
-    \href{https://books.google.no/books?hl=no&lr=&id=7xudB1HgHCAC&oi=fnd&pg=PA71&dq=kamaleri&ots=tzm7HD-O51&sig=CG5a4JCAlf2nygw3CeWOnkk_ce8&redir_esc=y#v=onepage&q=kamaleri&f=false}{Number of pain sites – a simple measure of population risk? In: Chronic Pain Epidemiology. \linebreak From Aetiology to Public Health. Croft P, Blyth F, van der Windt D (ed.)} \\
+    \href{https://books.google.no/books?hl=no&lr=&id=7xudB1HgHCAC&oi=fnd&pg=PA71&dq=kamaleri&ots=tzm7HD-O51&sig=CG5a4JCAlf2nygw3CeWOnkk_ce8&redir_esc=y#v=onepage&q=kamaleri&f=false}{Number of pain sites – a simple measure of population risk? In: Chronic Pain Epidemiology. \linebreak From Aetiology to Public Health. \textit{Croft P, Blyth F, van der Windt D (ed.)}} \\
     \textit{Natvig B., Ihlebæk C, Kamaleri Y, Bruusgaard D} \\
     Oxford University Press: Oxford. 2010
   \end{flushleft}
