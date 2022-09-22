@@ -25,7 +25,7 @@ format:
 \begin{huge}\begin{center}{\bf Yusman Kamaleri}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}ybkamaleri@gmail.com ∙ \href{https://github.com/ybkamaleri}{Github} 
+\begin{center}yusmanbin.kamaleri@fhi.no ∙ \href{https://github.com/ybkamaleri}{Github} 
 \end{center}
 \vspace{6pt}
 
