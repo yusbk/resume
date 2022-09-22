@@ -1,0 +1,217 @@
+
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=15mm
+      - left=15mm
+      - right=15mm
+      - bottom=15mm
+      - heightrounded
+    fontfamily: libertinus
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+<!-- TITLE -->
+\begin{huge}\begin{center}{\bf Yusman Kamaleri}\end{center}\end{huge}
+
+<!-- CONTACT INFO -->
+\begin{center}ybkamaleri@gmail.com ∙ \href{https://github.com/ybkamaleri}{Github} 
+\end{center}
+\vspace{15pt}
+
+<!-- EDUCATION: 1ST BULLET -->
+\begin{large}
+  {\bf UTDANNING}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Universitetet i Oslo}\end{flushleft}
+    \begin{flushright}2004 - 2009\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}PhD i Epidemiologi\end{flushleft}
+    \begin{flushright}Oslo\end{flushright}
+  \end{multicols}
+  \vspace{-0.25cm}
+  \textit{Avhandling: Muskel- og skjelettplager i den generelle befolkning: en epidemiologisk studie}
+\end{large}
+\vspace{2pt}
+
+<!-- EDUCATION: 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf Universitetet i Oslo}\end{flushleft}
+    \begin{flushright}2001 - 2003\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}M.Phil i Internasjonal samfunnhelse\end{flushleft}
+    \begin{flushright}Oslo\end{flushright}
+  \end{multicols}
+  \vspace{-0.25cm}
+  \textit{Thesis: Psykisk stress og muskel- og skjelettsmerte: en befolkningsbasert kohortstudie}
+\end{large}
+\vspace{2pt}
+
+<!-- EDUCATION: 3ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf International Islamic University Malaysia}\end{flushleft}
+    \begin{flushright}1993 - 1997\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}B.Sc (Hons) Psychology\end{flushleft}
+    \begin{flushright}Kuala Lumpur, Malaysia\end{flushright}
+  \end{multicols}
+  \vspace{-0.15cm}
+\end{large}
+\vspace{3pt}
+
+<!-- EXPERIENCE : 1ST BULLET-->
+\begin{large}{\bf ARBEIDSERFARING}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.fhi.no}{Folkehelseinstituttet}}\end{flushleft}
+    \begin{flushright}2022 - Present\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Forsker}\end
+    {flushleft}\begin{flushright}Oslo\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Involvert i epidemiologiske studier om skader
+* Involvert i epidemiologiske studier om helse og ulikhet
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 2ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.fhi.no}{Folkehelseinstituttet}}\end{flushleft}
+    \begin{flushright}2019 - 2022\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Seniorrådgiver}\end
+    {flushleft}\begin{flushright}Oslo\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Ansvarlig for vedlikeholder databasen for behandling av data for Norges- og kommunehelse
+* Utvikle løsninger for bearbeiding og rensing av data i R
+* Håndtering og strukturering av data
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 3ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://oslo-universitetssykehus.no/}{Avd. barnemedisin, Oslo universitetssykehus}}\end{flushleft}
+    \begin{flushright}2018 - 2019\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Statistiker}\end
+    {flushleft}\begin{flushright}Oslo\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Håndtering og bearbeiding av data i barne- og ungdomsdiabetes register (BDR)
+* Gjennomføre statistisk analyse av BDR data
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 4ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://oslo-universitetssykehus.no/}{Avd. barnemedisin, Oslo universitetssykehus}}\end{flushleft}
+    \begin{flushright}2018 - 2019\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Statistiker}\end
+    {flushleft}\begin{flushright}Oslo\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Håndtering og bearbeiding av data i barne- og ungdomsdiabetes register (BDR)
+* Gjennomføre statistisk analyse av BDR data
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 5ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://oslo-universitetssykehus.no/}{IKT avd., Oslo universitetssykehus}}\end{flushleft}
+    \begin{flushright}2014 - 2018\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Spesialrådgiver}\end
+    {flushleft}\begin{flushright}Oslo\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Arbeidsområder knyttet til Nasjonalt Servicemiljø for medisinske kvalitetsregistre, Region Sør-Øst
+* Ansvarlig for statistikk og analyse av helseregisterdata
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 6ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://oslo-universitetssykehus.no/}{Avd. barnemedisin, Oslo universitetssykehus}}\end{flushleft}
+    \begin{flushright}2011 - 2014\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Seniorforsker}\end
+    {flushleft}\begin{flushright}Oslo\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Arbeidsområder knyttet til Nasjonale kompetansetjenester for sjeldne diagnoser og funksjonshemninger
+* Ansvarlig for tilrettelegging av datainnsamling for forskningsprosjekter
+* Bidrar og veileder for statistikk og dataanalyse
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 7ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.sintef.no/ekspertise/digital/helse/global-helse-og-teknologi/}{Global helse og teknologi, SINTEF}}\end{flushleft}
+    \begin{flushright}2008 - 2011\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Forsker}\end
+    {flushleft}\begin{flushright}Oslo\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+* Arbeidsområder innenfor global helsetematikk
+* Involvert i forskjellige epidemiologiske studier i Sørlige Afrika
+
+\vspace{7pt}
