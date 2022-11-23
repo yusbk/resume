@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: ybkamaleri@gmail.com
     phone:
-    website: yusbk.github.io #do not add http://
+    website: bit.ly/ybkblog #do not add http://
     linkedin:
     github: ybkamaleri
     gitlab:
@@ -88,10 +88,11 @@ education:
         som tilsvarende norsk cand. mag.-eksamen
 
 experiences:
-    - role: Seniorrådgiver
+    - role: Forsker/Seniorrådgiver
       time: 2019 - Present
       company: Avdeling for helse og ulikhet, Folkehelseinstituttet
       details: |
+        - Analyse av data om skader og ulykker i Norge
         - Ansvarlig for vedlikeholder databasen for behandling av data for Norges- og Kommunehelse
         - Utvikle løsninger for bearbeiding og rensing av data i R
         - Håndtering og strukturering av data
