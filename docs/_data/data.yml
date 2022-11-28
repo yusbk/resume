@@ -159,11 +159,11 @@ projects:
 
     assignments:
       - title: norgeo package
-        link: https://helseprofil.github.io/norgeo
+        link: https://bit.ly/khnorgeo
         tagline: "En R pakke for uthenting og sporing av endringer i geografiske koder fra SSB via API"
 
       - title: orgdata package
-        link: https://helseprofil.github.io/orgdata
+        link: https://bit.ly/khorgdata
         tagline: "En R pakke for bearbeiding, kobling og rensing av norges- og kommunehelse data."
 
       - title: rreg package
