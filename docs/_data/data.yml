@@ -55,15 +55,11 @@ sidebar:
 career-profile:
     title: Om meg
     summary: |
-     Jeg har god erfaring i arbeid med håndtering av store datamengder og
-     visualisering som krever gode analytiske egenskaper. Dette er fordi jeg har utdanning og arbeidserfaring
-     innenfor forskning og databehandlig. Jeg benytter <strong>R</strong> for analyse- og
-     programmeringsarbeid. I tillegg har jeg også kjennskap i <strong>Python</strong>. Jeg har også erfaring
-     i å bruke annet programverktøy som inkluderer Stata, SPSS, EpiData og Access.
-     Noen av mine arbeider finnes på min <u><a href="https://www.github.com/ybkamaleri" target="_blank">Github</a></u> side.
-     Jeg benytter [Shiny](https://shiny.rstudio.com/) for interaktive og dynamiske webapplikasjoner
-     og [LaTeX](https://www.latex-project.org/) eller [Markdown](https://en.wikipedia.org/wiki/Markdown)
-     til automatisert rapportering.
+     Erfaren dataanalytiker med kompetanse i R, Python og statistiske verktøy
+     som Stata og SPSS. Jeg utvikler interaktive løsninger med Shiny og
+     automatiserte rapporter med LaTeX og Markdown. Har erfaring med
+     visualisering og analyse av store datamengder, og deler prosjekter på
+     [Github](https://www.github.com/ybkamaleri). Ellers spør gjerne direkte :-)
 
 
 education:
@@ -89,8 +85,16 @@ education:
         som tilsvarende norsk cand. mag.-eksamen
 
 experiences:
+    - role: Seniorrådgiver
+      time: 2025 - nå
+      company: Avd. for folkehelsestatistikk, Helsedirektoratet
+      details: |
+        - Ansvarlig for oppgaver relatert til rusmiddelområdet, inkludert datarensing og analyse
+        - Bearbeider, analyserer og rapporterer tilgjengelige data for beslutningsstøtte
+        - Tilpasser og utvikler statistiske visualiseringer for å presentere resultater på en forståelig måte
+        - Bidrar til øvrige oppgaver knyttet til statistikk, analyser og kvalitetssikring
     - role: Forsker/Seniorrådgiver
-      time: 2019 - Present
+      time: 2019 - 2025
       company: Avdeling for helse og ulikhet, Folkehelseinstituttet
       details: |
         - Analyse av data om skader og ulykker i Norge
